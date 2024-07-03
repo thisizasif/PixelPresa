@@ -5,7 +5,7 @@ import os
 import tempfile
 import logging
 
-TOKEN = '6497291775:AAH4LB5dMbPNdQDzTx0fJkVuOFa6LcttIxA'
+TOKEN = ' YOUT BOT TOKEN HERE '
 SIZE, PHOTO, QUALITY, ANOTHER = range(4)
 
 logging.basicConfig(
